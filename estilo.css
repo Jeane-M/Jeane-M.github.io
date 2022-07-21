@@ -1,0 +1,88 @@
+body { margin: 0px; font-family: sans-serif;}
+
+.clearfix{clear:both}
+
+
+.barra_superior { border-bottom: 1px solid rgba(71, 69, 69, 0.979);
+color:rgb(218, 40, 40);
+padding-top: 10px;
+padding-bottom: 10px; 
+font-size: 14px;}
+
+.conteiner { max-width: 960 px;
+width:100%; 
+margin: 50px; } 
+
+nav {color:rgb(218,40,40);
+font-size: 12px; 
+float:right;
+margin-top: 50px auto; }
+
+nav a {color:rgb(218,40,40); 
+text-decoration: none;} 
+
+.btn_destaque {background-color: rgb(116, 133, 22);
+color: rgb(240, 238, 245); 
+padding: 12px 40px;
+border-radius: 5px;
+margin-left: 25px;
+font-size: 12px;
+text-decoration: none; }
+
+.sec01 {
+height: 740px;
+color:rgb(39, 11, 163);
+background-image: url(img/eyewear.jpg); 
+background-repeat: no-repeat;
+background-position-x: center;}
+
+.sec01 p.titulo {font-size: 48px;
+padding-top: 100px;}
+
+.sec01 p { font-size: 24px;
+padding-bottom: 70px;}
+
+.sec02 p {font-size: 30px; 
+text-align: center;}
+
+.sec02 img{ width: 100%;
+margin-top: 50px;
+margin-bottom: 50px;}
+
+.sec02 {border-bottom: 2px solid rgb(218, 40, 40);}
+
+.sec03 p {font-size: 54px; 
+    line-height: 120%;
+    color: rgb(43, 2, 2)}
+
+.sec03 {
+    background-color: rgb(158, 189, 178);
+height: 402px;
+padding-top:50px ;
+padding-bottom: 20px;}
+
+.metade{ width: 50%;
+float:left;}
+
+.home2 {background-image:url(img/jovemotica.jpg);
+height: 402px;}
+
+.direitos_reservados { background-color: rgb(219, 80, 80);
+color:white;  
+text-align: center;  
+padding-top: 35px;
+padding-bottom: 35px;}
+
+.direitos_reservados a{ color:blanchedalmond } 
+
+.um_terco{
+    float: left;
+    width: 33%;  }
+
+    
+
+
+
+
+
+
